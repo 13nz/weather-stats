@@ -2,7 +2,8 @@
 
 A command-line application for visualizing historical weather trends and predicting future temperatures using Unicode candlestick charts and linear regression.
 
-![img.png](img.png)
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/310cb7dc-df38-4723-8f24-9e9d7a530ac7" />
+
 
 ## Features
 
@@ -18,7 +19,8 @@ A command-line application for visualizing historical weather trends and predict
 - **I/O:** Terminal-based interaction
 - **Dependencies:** None outside of the standard library
 
-![img_1.png](img_1.png)
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/72ae368d-6762-4efc-b352-9153209ebd3b" />
+
 
 ## How to Use
 

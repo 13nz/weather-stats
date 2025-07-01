@@ -1,0 +1,3 @@
+/Users/lenz/Desktop/midterms june 2025/OOP/weather-data/cmake-build-debug/CMakeFiles/midterm.dir
+/Users/lenz/Desktop/midterms june 2025/OOP/weather-data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lenz/Desktop/midterms june 2025/OOP/weather-data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
